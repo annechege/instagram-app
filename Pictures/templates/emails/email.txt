@@ -1,0 +1,2 @@
+Hello {{name}}
+Welcome To InstaPic, You have successfully joined the best social app where you can share your pics with friends.
