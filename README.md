@@ -1,4 +1,5 @@
-
+## Author
+* Anne Chege
 ### Instagram-app
 Instagram-app is a platform where users can upload  their photos and add caption to the photos for friends  to view, like and comment on the photos.
 
@@ -26,25 +27,16 @@ Download any text editor of your choice, either Sublime, Visual-Studio-Code or A
   - ```python3.8``` ,
   - ```import django```
   - And lastly ```django.get_version()``` to see and confirm the version of django installed.
-  - You can then ```ctrl z``` to get out of the shell,
+  - You can then ```ctrl z or exit()``` to get out of the shell,
 ##### After ensuring you have all the above
   - ```python3 manage.py runserver``` to run the project.
   - Then click the local host link given to open the project on a browser ```http://127.0.0.1:8000/```.
 
-
-#### For more information read the following django and python documentation:
-  - [DjangoDocumentation](https://docs.djangoproject.com/en/1.11/intro/install/)
-  - [PythonDocumentation](https://www.python.org/doc/)
-
-
-
-
 ### User Stories
-##### As a user, I would like to sign in to the application to start using it.
-##### As a user, I would like to upload my pictures to the application.
-##### As a user, I would like to see my profile with all my pictures.
-##### As a user, I would like to follow other users and see their pictures on my timeline.
-##### As a user, I would like to like a picture and leave a comment on it.
+As a user, I would like to sign in to the application to start using it.
+As a user, I would like to upload my pictures to the application.
+As a user, I would like to see my profile with all my pictures.
+As a user, I would like to like a picture and leave a comment on it.
 
 
 
@@ -57,18 +49,12 @@ Download any text editor of your choice, either Sublime, Visual-Studio-Code or A
 
 
 ### Technologies Used
-##### Python
-##### Django
-##### PostgreSQL
-##### HTML5
-##### CSS3
-
-
+Python
+Django
+PostgreSQL
+HTML
 
 
 ### Licence
 [MIT](LICENSE)
 
-
-### Contact
-##### irenemercy700@gmail.com
